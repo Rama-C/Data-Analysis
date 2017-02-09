@@ -1,7 +1,11 @@
 # Data Analysis
 
-##project overview
+##Titanic Dataset
 
-In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, Pandas, and Matplotlib to make your analysis easier.
+project overview
 
-This project will introduce you to the data analysis process that you will be using throughout the rest of the Nanodegree program. In this project, you will go through the entire process so that you know how all the pieces fit together. Later Nanodegree projects will focus on individual pieces of the data analysis process. In this project, you will also gain experience using the Python libraries NumPy, Pandas, and Matplotlib, which make writing data analysis code in Python a lot easier!
+
+For the final project, you will conduct your own data analysis and create a file to share that documents your findings. You should start by taking a look at your dataset and brainstorming what questions you could answer using it. Then you should use Pandas and NumPy to answer the questions you are most interested in, and create a report sharing the answers. You will not be required to use statistics or machine learning to complete this project, but you should make it clear in your communications that your findings are tentative. This project is open-ended in that we are not looking for one right answer.
+
+
+Titanic Data - Contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. You can view a description of this dataset on the Kaggle website, where the data was obtained.
