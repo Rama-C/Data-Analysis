@@ -2,7 +2,7 @@
 
 Titanic Dataset
 
-Titanic Data - Contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. You can view a description of this dataset on the Kaggle website, where the data was obtained.
+Titanic Data - Contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. 
 
 DataAnalysis of Titanic.Csv answers the following questions:
 
